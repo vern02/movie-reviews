@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# ngie")
+    st.write("# ngiee")
 
     st.sidebar.success("Select a demo above.")
 
